@@ -9,9 +9,18 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@apollo/client": "^4.1.7",
+    "@builder.io/react": "^9.3.0",
+    "@builder.io/sdk": "^6.3.0",
+    "@xyflow/react": "^12.10.2",
+    "framer-motion": "^12.38.0",
+    "graphql": "^16.13.2",
     "next": "16.2.3",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "recharts": "^3.8.1",
+    "wavesurfer.js": "^7.12.5",
+    "zustand": "^5.0.12"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
